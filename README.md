@@ -20,6 +20,7 @@ Boolean Functions
 
 ## **Testbench Program
 <img width="1032" height="993" alt="Screenshot 2026-11-25 080335" src="https://github.com/user-attachments/assets/cbb8441d-125c-4ec0-8c68-79957142fdf8" />
+<img width="246" height="81" alt="Screenshot 2026-11-25 085840" src="https://github.com/user-attachments/assets/ed27da5f-5321-45ea-ad9c-40fa170af09f" />
 
 
 
